@@ -1,5 +1,5 @@
 
-# Cancer Gene Prediction Web Tool 🧬
+# Cancer Type Prediction Web Tool 🧬
 
 This is an AI-powered web application for predicting cancer types based on gene expression data. It integrates transcriptomic and proteomic insights to provide real-time diagnostic support using machine learning models.
 
