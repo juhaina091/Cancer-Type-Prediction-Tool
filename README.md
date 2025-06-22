@@ -1,11 +1,11 @@
 
-# Cancer Type Prediction Web Tool 🧬
+# Cancer Type Prediction Web Tool 
 
 This is an AI-powered web application for predicting cancer types based on gene expression data. It integrates transcriptomic and proteomic insights to provide real-time diagnostic support using machine learning models.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed as part of our B.Tech Mini Project titled:
 
@@ -13,18 +13,18 @@ This project was developed as part of our B.Tech Mini Project titled:
 
 ---
 
-## 💡 Features
+##  Features
 
-- 🔍 Predicts **Cancer Type** using gene symbol and expression status (Up/Down/Unknown).
-- 📊 Displays top 5 predicted cancer types with confidence scores.
-- 🧠 Uses **XGBoost** or **Random Forest** models trained on multi-omics data.
-- 📈 Shows **feature importance visualization** for model interpretability.
+-  Predicts **Cancer Type** using gene symbol and expression status (Up/Down/Unknown).
+-  Displays top 5 predicted cancer types with confidence scores.
+-  Uses **XGBoost** or **Random Forest** models trained on multi-omics data.
+-  Shows **feature importance visualization** for model interpretability.
 
 ---
 
 
 
-## 🧪 How It Works
+##  How It Works
 
 - The user enters a **gene symbol** and optional **expression status**.
 - The app encodes inputs using saved label encoders.
